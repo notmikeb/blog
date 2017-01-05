@@ -2,6 +2,7 @@
 title: start_stop_daemon
 date: 2017-01-05 23:08:29
 tags:
+  - linux
 ---
 
 init.d script usually use start-stop-daemon to control the service enable and disable

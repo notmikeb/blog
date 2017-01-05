@@ -30,3 +30,10 @@ npm install
 hexo generate
 hexo server
 ```
+
+### create categories/about/tags pages
+```
+hexo new page categorise
+hexo new page about
+hexo new page tags
+```

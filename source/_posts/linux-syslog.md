@@ -2,6 +2,7 @@
 title: linux_syslog
 date: 2017-01-05 23:04:46
 tags:
+  - linux
 ---
 
 ### clean

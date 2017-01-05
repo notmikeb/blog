@@ -1,6 +1,9 @@
 ---
 title: install jupyter on window
 date: 2017-01-03 22:07:42
+tags:
+  - jupyter
+  - python
 ---
 
 ### install jupyter [python-jupyter](http://wheatpsy.blogspot.tw/2015/05/python-jupyter.html)
@@ -12,4 +15,15 @@ after install down,
 if there is any setuptools failure, down grade the setuptool
 ```sh
 pip install setuptools==21.2.1
+```
+
+Running at windows. Execute cmds below and it will has a web server at localhost:8888
+```sh
+ipython notebook
+```
+
+Create a window service 
+```sh
+C:\>sc create jupyterservice binpath= "c:\python27\scripts\ipython.exe notebook"
+ displayname= jupyter type= own start= auto depend= "+tdi netbios"
 ```
