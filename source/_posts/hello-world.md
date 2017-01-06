@@ -5,6 +5,15 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start
 
+
+### Tutorial
+* some sample
+[hexo Troubleshooting](https://hexo.io/docs/troubleshooting.html)
+* markdown
+[master markdown](https://guides.github.com/features/mastering-markdown/)
+* github sample source
+https://github.com/wen00072/wen00072.github.io/tree/source/source
+
 ### Create a new post
 
 ``` bash
