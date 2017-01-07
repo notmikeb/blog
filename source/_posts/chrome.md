@@ -15,4 +15,10 @@ dos>shell
 shell>sudo /bin/bash
 passwor: chrome
 
+### Install chrome
+http://davebennett.tech/how-to-install-chrome-os-on-pc/
 
+### crouton
+install ubuntu/debian in chrome os
+
+http://www.androidauthority.com/crouton-turn-your-chromebook-into-far-more-than-a-glorified-web-browser-663044/
