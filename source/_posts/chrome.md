@@ -1,3 +1,10 @@
+---
+title: chromebook
+date: 2017-01-07 22:08:29
+tags:
+  - linux
+  - chrome
+---
 
 Chronos Password – CloudReady
 https://neverware.zendesk.com/hc/en.../205483658-Chronos-Password-
