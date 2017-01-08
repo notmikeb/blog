@@ -37,3 +37,14 @@ hexo new page categorise
 hexo new page about
 hexo new page tags
 ```
+
+
+### install hexo
+Install hexo client and its git component
+```sh
+npm install -g hexo-cli
+npm install hexo-deployer-git --save
+```
+
+add node.js / hexo.exe / notepad++.exe to path
+copy notepad++.exe to note.exe
